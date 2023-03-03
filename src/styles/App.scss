@@ -1,0 +1,18 @@
+.app__header {
+  background-color: #b6dcfe;
+  text-align: center;
+}
+
+.app__form {
+  background-color: #f4f4ed;
+  border-width: 0;
+  border-style: solid;
+  border-color: #bbd8b3;
+  border-radius: 8px;
+  box-shadow: 0 0 8px -1px rgba(187, 216, 179, 1);
+
+  &--header {
+    background-color: inherit;
+    text-align: center;
+  }
+}
